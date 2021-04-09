@@ -1,0 +1,24 @@
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter\bin\Debug\ShaDeter.exe.config
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter\bin\Debug\ShaDeter.exe
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter\bin\Debug\ShaDeter.pdb
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter\obj\Debug\ShaDeter.csprojAssemblyReference.cache
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter\obj\Debug\ShaDeter.Properties.Resources.resources
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter\obj\Debug\ShaDeter.csproj.GenerateResource.cache
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter\obj\Debug\ShaDeter.csproj.CoreCompileInputs.cache
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter\obj\Debug\ShaDeter.exe
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter\obj\Debug\ShaDeter.pdb
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter\obj\Debug\ShaDeter.F_CreateNewBitmap.resources
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter\obj\Debug\ShaDeter.F_MainForm.resources
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter\obj\Debug\ShaDeter.F_Image.resources
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter 1\ShaDeter-master\bin\Debug\ShaDeter.exe.config
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter 1\ShaDeter-master\bin\Debug\ShaDeter.exe
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter 1\ShaDeter-master\bin\Debug\ShaDeter.pdb
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter 1\ShaDeter-master\obj\Debug\ShaDeter.csprojAssemblyReference.cache
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter 1\ShaDeter-master\obj\Debug\ShaDeter.F_MainForm.resources
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter 1\ShaDeter-master\obj\Debug\ShaDeter.F_CreateNewBitmap.resources
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter 1\ShaDeter-master\obj\Debug\ShaDeter.F_Image.resources
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter 1\ShaDeter-master\obj\Debug\ShaDeter.Properties.Resources.resources
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter 1\ShaDeter-master\obj\Debug\ShaDeter.csproj.GenerateResource.cache
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter 1\ShaDeter-master\obj\Debug\ShaDeter.csproj.CoreCompileInputs.cache
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter 1\ShaDeter-master\obj\Debug\ShaDeter.exe
+D:\с++4\prokopenkov\Project 42(ShaDeter)\ShaDeter 1\ShaDeter-master\obj\Debug\ShaDeter.pdb

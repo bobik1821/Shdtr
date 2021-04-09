@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaDeter", "ShaDeter.csproj", "{3C3AEFF4-53D2-4838-A48F-E55F09CB3B46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C3AEFF4-53D2-4838-A48F-E55F09CB3B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3AEFF4-53D2-4838-A48F-E55F09CB3B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3AEFF4-53D2-4838-A48F-E55F09CB3B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3AEFF4-53D2-4838-A48F-E55F09CB3B46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F3FCC0B-CE5B-4F2F-AE2E-6F76F18749FD}
+	EndGlobalSection
+EndGlobal
